@@ -27,7 +27,7 @@ Actualmente estudio nuevas habilidades por plataformas virtuales, para crecer en
 
 ## :briefcase: *Experiencia Laboral*
 
-- *Ingeniero de soporte - Mavicontrol Ltda.*  
+- *Ingeniero de soporte y desarrollo - Mavicontrol Ltda.*  
 
   1- Durante mi experiencia en el desarrollo de sistemas de automatización industrial, he trabajado con controladores lógicos programables (PLC) de marcas como Siemens (S7-1200, S7-1500 con TIA Portal), en la programación de secuencias lógicas, control de procesos y comunicación entre dispositivos industriales utilizando protocolos como Modbus, EtherNet/IP y PROFINET.
   
