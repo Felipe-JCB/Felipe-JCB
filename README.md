@@ -29,11 +29,17 @@ Actualmente estudio nuevas habilidades por plataformas virtuales, para crecer en
 
 - *Ingeniero de soporte - Mavicontrol Ltda.*  
 
-  1- Visitas a clientes para levantamiento de información y acompañamiento en la ejecución de servicios.
+  1- Implementando diferentes soluciones de software mediante comunicaión de socket entre dispositivos, desarrollé aplicaciones HMI con .NET desplegando interfaces para diferentes empresas.
 
-  2- Atención al cliente para brindar soporte técnico respecto al software y hardware de equipos Delta Electronics y Mitsubishi.
+  2- Durante mi experiencia en el desarrollo de sistemas de automatización industrial, he trabajado con controladores lógicos programables (PLC) de marcas como Siemens (S7-1200, S7-1500 con TIA Portal), en la programación de secuencias lógicas, control de procesos y comunicación entre dispositivos industriales utilizando protocolos como Modbus, EtherNet/IP y PROFINET.
+  
+  3- Desarrollo de interfaces hombre-máquina (HMI) utilizando herramientas como WinCC (Siemens), diseñando pantallas intuitivas para la supervisión y control de procesos en tiempo real. Esto ha permitido a los operadores mejorar la interacción con las máquinas y optimizar la eficiencia de producción. También he trabajado con SCADA (Supervisory Control And Data Acquisition) para el monitoreo y análisis de datos industriales.
+  
+  2- Visitas a clientes para levantamiento de información y acompañamiento en la ejecución de servicios.
 
-  3- Elaboración de documentación técnica aplicativa detallada.Diagnóstico de equipos para identificar problemas técnicos en equipos o software utilizados por los clientes.
+  3- Atención al cliente para brindar soporte técnico respecto al software y hardware de equipos Delta Electronics y Mitsubishi.
+
+  4- Elaboración de documentación técnica aplicativa detallada.Diagnóstico de equipos para identificar problemas técnicos en equipos o software utilizados por los clientes.
 
 ---
 
